@@ -1,9 +1,25 @@
-# Python_examples
-basic python examples
+# Python Examples
 
-veri yapıları
+## Basic Python Examples
 
-liste                   tuple                   dictionary               set 
-değiştirilebilir        değiştirilemez          değiştirilebilir        değiştirilebilir
-sıralı(index)           sıralı(index)           sırasız(key)            sırasız+eşsiz
-kapsayıcı               kapsayıcı               kapsayıcı               kapsayıcı
+### Veri Yapıları
+
+**Liste**                                                   
+* değiştirilebilir                        
+* sıralı(index)                                  
+* kapsayıcı                                           
+
+**Tuple**
+* değiştirilemez 
+* sıralı(index)
+* kapsayıcı
+
+**Dictionary**
+* değiştirilebilir
+* sırasız(key)
+* kapsayıcı
+
+**Set**
+* değiştirilebilir
+* sırasız+eşsiz
+* kapsayıcı
